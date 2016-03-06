@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f416676-b4e6-4b29-b3fa-27ab3dba7612" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/arrow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/XiaoxiaZhihu_iOS.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Podfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Podfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFAutoPurgingImageCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFHTTPSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFImageDownloader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFNetworkActivityIndicatorManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFNetworkReachabilityManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFSecurityPolicy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFURLRequestSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFURLResponseSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/AFURLSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIActivityIndicatorView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIButton+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIImage+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIImageView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIKit+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIProgressView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIRefreshControl+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/AFNetworking/UIWebView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MBProgressHUD/MBProgressHUD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefresh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshAutoFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshAutoGifFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshAutoNormalFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshAutoStateFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshBackFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshBackGifFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshBackNormalFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshBackStateFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshComponent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshConst.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshGifHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshNormalHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/MJRefreshStateHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/UIScrollView+MJExtension.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/UIScrollView+MJRefresh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/MJRefresh/UIView+MJExtension.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASCompositeConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASConstraint+Private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASConstraintMaker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASLayoutConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASUtilities.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASViewAttribute.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/MASViewConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/Masonry.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/NSArray+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/NSArray+MASShorthandAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/NSLayoutConstraint+MASDebugAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/View+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/View+MASShorthandAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Masonry/ViewController+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/NSData+ImageContentType.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDImageCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDWebImageCompat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDWebImageDecoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDWebImageDownloader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDWebImageManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDWebImageOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/SDWebImagePrefetcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/UIButton+WebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/UIImage+GIF.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/UIImage+MultiFormat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/UIImageView+HighlightedWebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/UIImageView+WebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/SDWebImage/UIView+WebCacheOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYImage/YYAnimatedImageView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYImage/YYFrameImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYImage/YYImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYImage/YYImageCoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYImage/YYSpriteSheetImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYModel/NSObject+YYModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYModel/YYClassInfo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/YYModel/YYModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFAutoPurgingImageCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFHTTPSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFImageDownloader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFNetworkActivityIndicatorManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFNetworkReachabilityManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFSecurityPolicy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFURLRequestSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFURLResponseSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/AFURLSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIActivityIndicatorView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIButton+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIImage+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIImageView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIKit+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIProgressView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIRefreshControl+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/AFNetworking/UIWebView+AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MBProgressHUD/MBProgressHUD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefresh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshAutoFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshAutoGifFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshAutoNormalFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshAutoStateFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshBackFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshBackGifFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshBackNormalFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshBackStateFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshComponent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshConst.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshGifHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshNormalHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshStateHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/UIScrollView+MJExtension.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/UIScrollView+MJRefresh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/UIView+MJExtension.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASCompositeConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASConstraint+Private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASConstraintMaker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASLayoutConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASUtilities.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASViewAttribute.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/MASViewConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/Masonry.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/NSArray+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/NSArray+MASShorthandAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/NSLayoutConstraint+MASDebugAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/View+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/View+MASShorthandAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Masonry/ViewController+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/NSData+ImageContentType.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDImageCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDWebImageCompat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDWebImageDecoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDWebImageDownloader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDWebImageDownloaderOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDWebImageManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDWebImageOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/SDWebImagePrefetcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/UIButton+WebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/UIImage+GIF.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/UIImage+MultiFormat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/UIImageView+HighlightedWebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/UIImageView+WebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/SDWebImage/UIView+WebCacheOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYImage/YYAnimatedImageView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYImage/YYFrameImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYImage/YYImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYImage/YYImageCoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYImage/YYSpriteSheetImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYModel/NSObject+YYModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYModel/YYClassInfo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/YYModel/YYModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefresh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIView+MJExtension.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIView+MJExtension.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/MJRefresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASCompositeConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASCompositeConstraint.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint+Private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASLayoutConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASLayoutConstraint.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASUtilities.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewAttribute.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewAttribute.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewConstraint.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/Masonry.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASShorthandAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/ViewController+MASAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/ViewController+MASAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Masonry/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/AFNetworking.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MBProgressHUD.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MJRefresh.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Masonry.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Pods.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/SDWebImage.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYImage.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYModel.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDImageCache.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImage+GIF.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImage+GIF.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MJRefresh/MJRefresh-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MJRefresh/MJRefresh-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MJRefresh/MJRefresh.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-acknowledgements.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-acknowledgements.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-frameworks.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-resources.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods.debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods.release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYImage/YYImage-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYImage/YYImage-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYImage/YYImage.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYAnimatedImageView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYAnimatedImageView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYFrameImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYFrameImage.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImage.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImageCoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImageCoder.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYSpriteSheetImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYSpriteSheetImage.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYModel/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYModel/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/IZhihuApi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/InjectHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/InjectHelper.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ViewController.m" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ViewController.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/XiaoxiaZhihu_iOS.xcscheme" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/XiaoxiaZhihu_iOS.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Base.lproj/LaunchScreen.storyboard" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Base.lproj/LaunchScreen.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Info.plist" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/main.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/main.m" />
+    </list>
+    <ignored path="XiaoxiaZhihu_iOS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_4f512cdae1cd1e5e1f5a70dfa7d9e5222ef7b946" />
+  <component name="FavoritesManager">
+    <favorites_list name="XiaoxiaZhihu_iOS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/IZhihuApi.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ViewController.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.xib" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentTableViewCell.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/UIImageView+StringTag.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/UIImageView+ObjectTag.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/UIImageView+ObjectTag.h" />
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="2048" />
+    <option name="height" value="1129" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>Clang Issues</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow analysisC/C++</id>
+          </State>
+          <State>
+            <id>GeneralObjective-C</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Objective-C</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="recentsLimit" value="5" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../dev/android_sdk" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="XiaoxiaZhihu_iOS" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v4.0.0/bin/node" />
+  </component>
+  <component name="RunManager" selected="Application.XiaoxiaZhihu_iOS">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="XiaoxiaZhihu_iOS" TARGET_NAME="XiaoxiaZhihu_iOS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="XiaoxiaZhihu_iOS" RUN_TARGET_NAME="XiaoxiaZhihu_iOS" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="XiaoxiaZhihu_iOS" TARGET_NAME="XiaoxiaZhihu_iOS" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="XiaoxiaZhihu_iOS" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="XiaoxiaZhihu_iOS" TARGET_NAME="XiaoxiaZhihu_iOS" CONFIG_NAME="Debug" SCHEME_NAME="XiaoxiaZhihu_iOS" RUN_TARGET_PROJECT_NAME="XiaoxiaZhihu_iOS" RUN_TARGET_NAME="XiaoxiaZhihu_iOS" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="AFNetworking" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="AFNetworking" CONFIG_NAME="Debug" SCHEME_NAME="AFNetworking" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Pods" CONFIG_NAME="Debug" SCHEME_NAME="Pods" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="SDWebImage" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="SDWebImage" CONFIG_NAME="Debug" SCHEME_NAME="SDWebImage" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="YYImage" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="YYImage" CONFIG_NAME="Debug" SCHEME_NAME="YYImage" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="YYModel" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="YYModel" CONFIG_NAME="Debug" SCHEME_NAME="YYModel" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="MBProgressHUD" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="MBProgressHUD" CONFIG_NAME="Debug" SCHEME_NAME="MBProgressHUD" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="Masonry" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="Masonry" CONFIG_NAME="Debug" SCHEME_NAME="Masonry" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="MJRefresh" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="Pods" TARGET_NAME="MJRefresh" CONFIG_NAME="Debug" SCHEME_NAME="MJRefresh" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Application.XiaoxiaZhihu_iOS" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AFNetworking" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Pods" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SDWebImage" />
+      <item index="4" class="java.lang.String" itemvalue="Application.YYImage" />
+      <item index="5" class="java.lang.String" itemvalue="Application.YYModel" />
+      <item index="6" class="java.lang.String" itemvalue="Application.MBProgressHUD" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Masonry" />
+      <item index="8" class="java.lang.String" itemvalue="Application.MJRefresh" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f416676-b4e6-4b29-b3fa-27ab3dba7612" name="Default" comment="" />
+      <created>1456637138676</created>
+      <option name="number" value="Default" />
+      <updated>1456637138676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="23" width="2048" height="1129" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838774" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31948566" sideWeight="0.49401197" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31948566" sideWeight="0.505988" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47040972" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5578635" sideWeight="0.49809885" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739863" sideWeight="0.49708575" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18413174" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838774" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26705757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838774" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31948566" sideWeight="0.49401197" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31948566" sideWeight="0.505988" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47040972" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5578635" sideWeight="0.49809885" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.49708575" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18413174" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838774" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26705757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h</url>
+          <line>86</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINibLoading.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36190477">
+          <caret line="59" column="66" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarItem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIControl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33233532">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/math.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="473" column="14" selection-start-line="473" selection-start-column="14" selection-end-line="473" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7285714">
+          <caret line="278" column="62" selection-start-line="278" selection-start-column="62" selection-end-line="278" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/MBProgressHUD/MBProgressHUD.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.89453125">
+          <caret line="350" column="25" selection-start-line="350" selection-start-column="25" selection-end-line="350" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33626375">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23736264">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3515625">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33296704">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7788779">
+          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="95" column="51" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2970297">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2970297">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/objc/NSObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61328125">
+          <caret line="347" column="36" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/objc/NSObjCRuntime.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3671875">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24609375">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="66" selection-end-column="7" />
+          <folding>
+            <marker date="1456904688000" expanded="true" signature="579:2105" placeholder="..." />
+            <marker date="1456904688000" expanded="true" signature="1266:1844" placeholder="{...}" />
+            <marker date="1456904688000" expanded="true" signature="1863:2104" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSOperation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54296875">
+          <caret line="137" column="53" selection-start-line="137" selection-start-column="53" selection-end-line="137" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/SDWebImageManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68359375">
+          <caret line="109" column="28" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.510989">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5976562">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3328592">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35846373">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSParagraphStyle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2413442">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="11" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITapGestureRecognizer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39712918">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGestureRecognizer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325359">
+          <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10925645">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79124236">
+          <caret line="276" column="19" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/UIScrollView+MJRefresh.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/MJRefresh/MJRefreshHeader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="e#150#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="52" selection-end-column="7" />
+          <folding>
+            <element signature="e#153#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/IZhihuApi.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67820776">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329939">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.7990432">
+          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34449762">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.086124405">
+          <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
