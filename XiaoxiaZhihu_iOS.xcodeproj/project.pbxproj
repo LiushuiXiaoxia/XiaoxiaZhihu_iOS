@@ -52,6 +52,7 @@
 		ED7DFDA7ED02DC0D9FDD2C30 /* GetLongCommentsResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DFBCE1BEABA8898B4859D /* GetLongCommentsResponse.m */; };
 		ED7DFE1B29965E01D3389C9F /* GetStartInfoRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DFB25C7123C978E7A8B75 /* GetStartInfoRequest.m */; };
 		ED7DFE281E66249D9F2747D6 /* GetLongCommentsRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DF6B433E8EB425E3E930A /* GetLongCommentsRequest.m */; };
+		ED7DFF745310E5794E36F25E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = ED7DFB20822F20DE1E38C3AC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -117,6 +118,7 @@
 		ED7DFA10E1A444F405AECB4E /* ThemeEditor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThemeEditor.m; sourceTree = "<group>"; };
 		ED7DFA161989603405C8C80A /* ImageLoadHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageLoadHelper.m; sourceTree = "<group>"; };
 		ED7DFB039B4833F2D007E9BC /* GetStoryExtraResponse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetStoryExtraResponse.m; sourceTree = "<group>"; };
+		ED7DFB20822F20DE1E38C3AC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ED7DFB25C7123C978E7A8B75 /* GetStartInfoRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetStartInfoRequest.m; sourceTree = "<group>"; };
 		ED7DFB47AC84A5511193A81F /* GetStoryExtraResponse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetStoryExtraResponse.h; sourceTree = "<group>"; };
 		ED7DFB4AE46D8693A08C1E7D /* CommentsViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommentsViewCell.m; sourceTree = "<group>"; };
@@ -169,6 +171,8 @@
 				F33EAD101AC3E2162E7B81C4 /* Frameworks */,
 				168C08B044D066106212AE9C /* Pods */,
 				5C531CA31C82BA9500ADB9C3 /* Products */,
+				ED7DFB20822F20DE1E38C3AC /* README.md */,
+				ED7DF8B4500A15F2F8012E55 /* doc */,
 			);
 			sourceTree = "<group>";
 		};
@@ -309,6 +313,13 @@
 				ED7DF8A3C445F950D8F127D4 /* GetLongCommentsRequest.h */,
 			);
 			name = req;
+			sourceTree = "<group>";
+		};
+		ED7DF8B4500A15F2F8012E55 /* doc */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = doc;
 			sourceTree = "<group>";
 		};
 		ED7DF9C6BE9B79414B45DE73 /* widget */ = {
@@ -526,6 +537,7 @@
 				5C3AB81C1C84282D008B9328 /* CommentsViewController.m in Sources */,
 				ED7DF636F7F78682B8C783B3 /* ImageLoadHelper.m in Sources */,
 				ED7DF29EBB7FBC87C624ED0B /* CommentsViewCell.m in Sources */,
+				ED7DFF745310E5794E36F25E /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
