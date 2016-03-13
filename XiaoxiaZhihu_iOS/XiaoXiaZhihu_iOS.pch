@@ -1,0 +1,25 @@
+//
+//  XiaoXiaZhihu_iOS.pch
+//  XiaoxiaZhihu_iOS
+//
+//  Created by xiaqiulei on 16/3/13.
+//  Copyright © 2016年 cn.mycommons. All rights reserved.
+//
+
+#ifndef XiaoXiaZhihu_iOS_pch
+#define XiaoXiaZhihu_iOS_pch
+
+
+#import "CocoaLumberjack.h"
+#import "AppGlobal.h"
+
+#ifdef DEBUG
+static const int ddLogLevel = DDLogLevelVerbose;
+#else
+static const int ddLogLevel = DDLogLevelOff;
+#endif
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* XiaoXiaZhihu_iOS_pch */

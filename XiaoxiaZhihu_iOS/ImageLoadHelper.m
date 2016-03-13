@@ -19,7 +19,7 @@
                 [[NSOperationQueue mainQueue] addOperationWithBlock:^{
 
                 }];
-                NSLog(@"imageURL = %@", imageURL);
+                DDLogWarn(@"imageURL = %@", imageURL);
                 imageView.image = image;
             };
 
@@ -34,7 +34,7 @@
 
     void (^completedBlock)(UIImage *, NSError *, SDImageCacheType, BOOL, NSURL *) =
             ^(UIImage *image, NSError *error, SDImageCacheType cacheType, BOOL finished, NSURL *imageURL) {
-                NSLog(@"imageURL = %@", imageURL);
+                DDLogWarn(@"imageURL = %@", imageURL);
                 cell.imageView.image = image;
                 [cell setNeedsLayout];
             };

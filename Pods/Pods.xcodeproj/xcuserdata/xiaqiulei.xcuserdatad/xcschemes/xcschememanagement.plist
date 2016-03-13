@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>CocoaLumberjack.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -47,12 +52,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3AFCD49C82EA077A99D92E95B05FD0C8</key>
+		<key>12E2BC28C62976C425F4B71C2723F0B1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2496372D893721186C326DA20834E9CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>42B912BAA4646AC2975590AFC6C5ED4F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>53480ED0BE09FF49E34B1702D485CAAB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54739B92FC6C02E1B0E1877BD1D92DD9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -67,17 +87,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A9CD51F121DE68122959FD5A082FB193</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DC5A9CCFDA35FE883354D129A60E7379</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>EBD11EDBE554DF0C7C2C3CAC7695EDEE</key>
+		<key>C4E6B1AB9E112A448932A6BC949B572E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

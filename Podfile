@@ -10,3 +10,4 @@ pod 'SDWebImage', '~>3.7'
 pod 'MBProgressHUD', '~>0.9.2'
 pod 'Masonry', '~>0.6.4' # UI layout
 pod 'MJRefresh'
+pod 'CocoaLumberjack'

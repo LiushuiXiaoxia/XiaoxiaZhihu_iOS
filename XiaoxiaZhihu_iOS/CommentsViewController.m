@@ -16,6 +16,7 @@
 #import "IZhihuApi.h"
 #import "CommentsViewCell.h"
 #import "MJRefreshNormalHeader.h"
+#import "AppGlobal.h"
 
 @interface CommentsViewController ()
 
@@ -33,7 +34,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    NSLog(@"newsId = %d", _newsId);
+    DDLogVerbose(@"newsId = %d", _newsId);
 
     self.zhihuApi = [InjectHelper getZhihuApi];
     self.isLoadedShortComments = NO;

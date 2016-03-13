@@ -7,7 +7,6 @@
 //
 
 #import "AppDelegate.h"
-#import "StartViewController.h"
 
 @interface AppDelegate ()
 
@@ -18,6 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+
+    // init log
+    [DDLog addLogger:[DDTTYLogger sharedInstance]];
+    [[DDTTYLogger sharedInstance] setColorsEnabled:YES];
+
     return YES;
 }
 

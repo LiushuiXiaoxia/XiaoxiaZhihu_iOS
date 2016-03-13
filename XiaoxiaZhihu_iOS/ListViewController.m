@@ -90,7 +90,7 @@ static NSString *const HOT_NEW_TITLE = @"今日热闻";
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    NSLog(@"indexPath = %@", indexPath);
+    DDLogInfo(@"indexPath = %@", indexPath);
 
     if (indexPath.row == 0) {
         HotnewsViewController *controller = [[HotnewsViewController alloc] init];
