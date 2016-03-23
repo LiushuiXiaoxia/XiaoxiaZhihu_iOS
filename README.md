@@ -10,9 +10,13 @@
 
 使用最简单的MVC模式,网络层通信使用AFNetworking,json解析使用YYModel,图片加载使用了SDWebImage,同时界面中使用了MJRefresh,Masonry,MBProgressHUD.
 
-## Android客户端
+## 其他客户端
 
-[Android客户端](https://github.com/LiushuiXiaoxia/XiaoxiaZhihu)
+[iOS客户端](https://github.com/LiushuiXiaoxia/XiaoxiaZhihu_iOS)
+
+[Android客户端Java版本](https://github.com/LiushuiXiaoxia/XiaoxiaZhihu)
+
+[Android客户端Kotlin版本](https://github.com/LiushuiXiaoxia/XiaoxiaZhihu_iOS)
 
 ## 主要使用组件
 
