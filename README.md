@@ -22,6 +22,8 @@
 
 [XiaoxiaZhihu客户端Weex版本](https://github.com/LiushuiXiaoxia/XiaoxiaZhihuWeex)
 
+[XiaoxiaZhihu客户端微信小程序](https://github.com/LiushuiXiaoxia/XiaoxiazhihuWx)
+
 ## 主要使用组件
 
 ```
