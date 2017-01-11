@@ -11,8 +11,8 @@
 }
 + (NSDictionary *)modelCustomPropertyMapper {
     return @{
-            @"themeId" : @"id",
-            @"themeDescription" : @"description",
+            @"themeId": @"id",
+            @"themeDescription": @"description",
     };
 }
 

@@ -9,17 +9,17 @@
 
 @interface CommentsViewCell () {
     CGFloat _screenWidth;
-    int iconWidth;
-    int iconOffset;
-    int padding;
-    int titleHeight;
+    int     iconWidth;
+    int     iconOffset;
+    int     padding;
+    int     titleHeight;
 }
 
-@property(nonatomic, strong) UIView *container;
+@property(nonatomic, strong) UIView      *container;
 @property(nonatomic, strong) UIImageView *ivIcon;
-@property(nonatomic, strong) UILabel *labelTitle;
-@property(nonatomic, strong) UILabel *labelContent;
-@property(nonatomic, strong) UILabel *labelDate;
+@property(nonatomic, strong) UILabel     *labelTitle;
+@property(nonatomic, strong) UILabel     *labelContent;
+@property(nonatomic, strong) UILabel     *labelDate;
 
 @end
 
@@ -28,10 +28,10 @@
     self = [super initWithFrame:frame reuseIdentifier:reuseIdentifier];
     if (self) {
         _screenWidth = [[UIScreen mainScreen] bounds].size.width;
-        iconWidth = 44;
-        padding = 5;
-        iconOffset = 15;
-        titleHeight = 25;
+        iconWidth    = 44;
+        padding      = 5;
+        iconOffset   = 15;
+        titleHeight  = 25;
 
         self.container = [UIView new];
         [self addSubview:self.container];
@@ -58,7 +58,7 @@
             make.height.mas_equalTo(titleHeight);
         }];
 
-        self.labelContent = [UILabel new];
+        self.labelContent               = [UILabel new];
         self.labelContent.numberOfLines = 0;
         [self.container addSubview:self.labelContent];
         [self.labelContent mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -85,25 +85,25 @@
 - (void)bind:(Comment *)comment {
     [ImageLoadHelper loadWithImageUrl:comment.avatar imageView:_ivIcon];
 
-    _labelTitle.text = comment.author;
+    _labelTitle.text   = comment.author;
     _labelContent.text = comment.content;
 
-    NSDate *date = [NSDate dateWithTimeIntervalSince1970:comment.time];
+    NSDate          *date      = [NSDate dateWithTimeIntervalSince1970:comment.time];
     NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
     formatter.dateFormat = @"yyyy-MM-dd HH:mm:ss";
-    _labelDate.text = [formatter stringFromDate:date];
+    _labelDate.text      = [formatter stringFromDate:date];
 
     CGSize boundSize = CGSizeMake(_screenWidth - iconOffset - iconWidth - padding * 2, CGFLOAT_MAX);
-    CGSize size = [comment.content sizeWithFont:_labelContent.font
-                              constrainedToSize:boundSize
-                                  lineBreakMode:UILineBreakModeWordWrap];
+    CGSize size      = [comment.content sizeWithFont:_labelContent.font
+                                   constrainedToSize:boundSize
+                                       lineBreakMode:UILineBreakModeWordWrap];
 
     [self.labelContent mas_updateConstraints:^(MASConstraintMaker *make) {
         make.height.mas_equalTo(size.height + titleHeight);
     }];
 
     CGRect rect = self.frame;
-    rect.size.height =  titleHeight * 3 + size.height;
-    self.frame = rect;
+    rect.size.height = titleHeight * 3 + size.height;
+    self.frame       = rect;
 }
 @end

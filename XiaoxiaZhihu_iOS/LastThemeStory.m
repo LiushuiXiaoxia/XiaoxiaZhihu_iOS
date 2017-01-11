@@ -12,15 +12,15 @@
 
 + (NSDictionary *)modelCustomPropertyMapper {
     return @{
-            @"storyId" : @"id",
-            @"gaPrefix" : @"ga_prefix",
+            @"storyId": @"id",
+            @"gaPrefix": @"ga_prefix",
     };
 }
 
 
 + (NSDictionary *)modelContainerPropertyGenericClass {
     return @{
-            @"images" : [NSString class],
+            @"images": [NSString class],
     };
 }
 

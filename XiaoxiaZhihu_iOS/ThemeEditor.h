@@ -10,7 +10,7 @@
 
 @property NSString *url;
 @property NSString *bio;
-@property int themeEditorId;
+@property int      themeEditorId;
 @property NSString *avatar;
 @property NSString *name;
 

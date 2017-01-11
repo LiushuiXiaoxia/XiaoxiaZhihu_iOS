@@ -19,11 +19,11 @@
 @interface DetailViewController ()
 
 @property(nonatomic, strong) IBOutlet UIWebView *webView;
-@property(nonatomic, strong) UIBarButtonItem *commmentsButton;
-@property(nonatomic, strong) UIBarButtonItem *popularityButton;
+@property(nonatomic, strong) UIBarButtonItem    *commmentsButton;
+@property(nonatomic, strong) UIBarButtonItem    *popularityButton;
 
-@property(nonatomic, strong) id <IZhihuApi> zhihuApi;
-@property(nonatomic, strong) GetNewsResponse *getNewsResponse;
+@property(nonatomic, strong) id <IZhihuApi>        zhihuApi;
+@property(nonatomic, strong) GetNewsResponse       *getNewsResponse;
 @property(nonatomic, strong) GetStoryExtraResponse *getStoryExtraResponse;
 
 @end
@@ -46,7 +46,7 @@
 - (void)getStoryExtra {
     GetStoryExtraRequest *request = [GetStoryExtraRequest requestWithExtraId:_newsId];
     request.responseModelClass = [GetStoryExtraResponse class];
-    request.completionHandler = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
+    request.completionHandler  = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
         self.getStoryExtraResponse = responseObj;
 
         [self addNavigationButtons];
@@ -75,10 +75,10 @@
 - (void)likeNews {
 //只显示文字
     MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];
-    hud.mode = MBProgressHUDModeText;
-    hud.labelText = @"需要登录才能点赞";
-    hud.margin = 30.f;
-    hud.yOffset = 20.f;
+    hud.mode                      = MBProgressHUDModeText;
+    hud.labelText                 = @"需要登录才能点赞";
+    hud.margin                    = 30.f;
+    hud.yOffset                   = 20.f;
     hud.removeFromSuperViewOnHide = YES;
     [hud hide:YES afterDelay:2];
 }
@@ -86,7 +86,7 @@
 - (void)getNews {
     GetNewsRequest *request = [GetNewsRequest requestWithNewsId:_newsId];
     request.responseModelClass = [GetNewsResponse class];
-    request.completionHandler = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
+    request.completionHandler  = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
         self.getNewsResponse = responseObj;
 
         [self.webView loadHTMLString:self.getNewsResponse.body baseURL:nil];
@@ -97,7 +97,7 @@
 
 - (void)gotoComments {
     CommentsViewController *viewController = [[CommentsViewController alloc] init];
-    viewController.newsId = _newsId;
+    viewController.newsId     = _newsId;
     viewController.storyExtra = self.getStoryExtraResponse;
     [self.navigationController pushViewController:viewController animated:YES];
 }

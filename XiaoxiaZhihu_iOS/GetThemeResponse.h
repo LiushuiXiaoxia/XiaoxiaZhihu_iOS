@@ -13,13 +13,14 @@
 @interface GetThemeResponse : BaseZhihuResponse
 
 @property NSArray<LastThemeStory *> *stories;
-@property NSString *themeDescription;
-@property NSString *background;
-@property int color;
-@property NSString *name;
-@property NSString *image;
-@property NSArray<ThemeEditor *> *editors;
-@property NSString *imageSrouce;
+@property NSString                  *themeDescription;
+@property NSString                  *background;
+@property int                       color;
+@property NSString                  *name;
+@property NSString                  *image;
+@property NSArray<ThemeEditor *>    *editors;
+@property NSString                  *imageSrouce;
 
 - (NSString *)description;
+
 @end

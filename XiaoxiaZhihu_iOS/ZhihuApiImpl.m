@@ -45,7 +45,7 @@
 
 - (void (^)(NSURLSessionDataTask *, NSError *))getFailCallback:(BaseZhihuRequest *)request {
     void (^failure)(NSURLSessionDataTask *, NSError *) = ^(NSURLSessionDataTask *task, NSError *error) {
-        DDLogError(@"ZhihuApiImpl.getStartInfoResponse.error = %@", error);
+        AppLogI(@"ZhihuApiImpl.getStartInfoResponse.error = %@", error);
         if (request.completionHandler) {
             request.completionHandler(request, nil, error);
         }
@@ -55,11 +55,11 @@
 
 - (void (^)(NSURLSessionDataTask *, id))getSuccessCallback:(BaseZhihuRequest *)request {
     void (^success)(NSURLSessionDataTask *, id) = ^(NSURLSessionDataTask *task, id responseObject) {
-        DDLogInfo(@"ZhihuApiImpl.getStartInfoResponse.responseObject = %@", responseObject);
+        AppLogI(@"ZhihuApiImpl.getStartInfoResponse.responseObject = %@", responseObject);
 
         if (request.completionHandler) {
             id zhihuResponse = [request.responseModelClass yy_modelWithDictionary:responseObject];
-            DDLogInfo(@"zhihuResponse = %@", zhihuResponse);
+            AppLogE(@"zhihuResponse = %@", [zhihuResponse description]);
             request.completionHandler(request, zhihuResponse, nil);
         }
     };
@@ -70,7 +70,7 @@
     NSString *url = @"http://news-at.zhihu.com/api/4/start-image/%d*%d";
     url = [NSString stringWithFormat:url, request.width, request.height];
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];
@@ -81,7 +81,7 @@
 - (void)getAllThemesResponse:(GetAllThemesRequest *)request {
     NSString *url = @"http://news-at.zhihu.com/api/4/themes";
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];
@@ -91,7 +91,7 @@
 - (void)getLastThemeResponse:(GetLastThemeRequest *)request {
     NSString *url = @"http://news-at.zhihu.com/api/4/news/latest";
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];
@@ -102,7 +102,7 @@
     NSString *url = @"http://news-at.zhihu.com/api/4/news/%d";
     url = [NSString stringWithFormat:url, request.newsId];
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];
@@ -113,7 +113,7 @@
     NSString *url = @"http://news-at.zhihu.com/api/4/theme/%d";
     url = [NSString stringWithFormat:url, request.themeId];
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];
@@ -124,7 +124,7 @@
     NSString *url = @"http://news-at.zhihu.com/api/4/story-extra/%d";
     url = [NSString stringWithFormat:url, request.extraId];
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];
@@ -135,7 +135,7 @@
     NSString *url = @"http://news-at.zhihu.com/api/4/story/%d/short-comments";
     url = [NSString stringWithFormat:url, request.commentId];
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];
@@ -146,7 +146,7 @@
     NSString *url = @"http://news-at.zhihu.com/api/4/story/%d/long-comments";
     url = [NSString stringWithFormat:url, request.commentId];
 
-    DDLogInfo(@"url = %@", url);
+    AppLogI(@"url = %@", url);
 
     void (^success)(NSURLSessionDataTask *, id) = [self getSuccessCallback:request];
     void (^failure)(NSURLSessionDataTask *, NSError *) = [self getFailCallback:request];

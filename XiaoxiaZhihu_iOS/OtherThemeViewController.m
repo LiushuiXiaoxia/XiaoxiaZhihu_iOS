@@ -20,7 +20,7 @@
     __weak IBOutlet UITableView *_tableView;
 }
 
-@property(nonatomic, strong) UIImageView *headerView;
+@property(nonatomic, strong) UIImageView      *headerView;
 @property(nonatomic, strong) GetThemeResponse *getThemeResponse;
 
 @end
@@ -32,19 +32,19 @@
     // Do any additional setup after loading the view from its nib.
 
     self.navigationController.navigationBar.hidden = NO;
-    self.title = _viewControllerTitle;
-    self.view.backgroundColor = [UIColor greenColor];
+    self.title                                     = _viewControllerTitle;
+    self.view.backgroundColor                      = [UIColor greenColor];
 
-    self.headerView = [[UIImageView alloc] init];
-    self.headerView.frame = CGRectMake(0, 0, _tableView.frame.size.width, 200);
+    self.headerView             = [[UIImageView alloc] init];
+    self.headerView.frame       = CGRectMake(0, 0, _tableView.frame.size.width, 200);
     self.headerView.contentMode = UIViewContentModeScaleAspectFill;
-    _tableView.tableHeaderView = self.headerView;
-    _tableView.tableFooterView = [[UIView alloc] init];
-    _tableView.mj_header = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
+    _tableView.tableHeaderView  = self.headerView;
+    _tableView.tableFooterView  = [[UIView alloc] init];
+    _tableView.mj_header        = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
         [self getTheme];
     }];
 
-    _tableView.delegate = self;
+    _tableView.delegate   = self;
     _tableView.dataSource = self;
 
     [self getTheme];
@@ -53,7 +53,7 @@
 - (void)getTheme {
     GetThemeRequest *request = [GetThemeRequest requestWithThemeId:_themeId];
     request.responseModelClass = [GetThemeResponse class];
-    request.completionHandler = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
+    request.completionHandler  = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
         [_tableView.mj_header endRefreshing];
 
         self.getThemeResponse = responseObj;

@@ -12,7 +12,7 @@
 
 + (NSDictionary *)modelCustomPropertyMapper {
     return @{
-            @"commentId" : @"id",
+            @"commentId": @"id",
     };
 }
 

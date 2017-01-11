@@ -8,11 +8,11 @@
 
 @interface Comment : NSObject
 
-@property int commentId;
+@property int      commentId;
 @property NSString *author;
 @property NSString *content;
-@property int likes;
-@property int time;
+@property int      likes;
+@property int      time;
 @property NSString *avatar;
 
 - (NSString *)description;

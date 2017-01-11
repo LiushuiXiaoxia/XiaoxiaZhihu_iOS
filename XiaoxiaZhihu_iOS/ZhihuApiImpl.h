@@ -7,6 +7,6 @@
 #import "IZhihuApi.h"
 
 
-@interface ZhihuApiImpl : NSObject<IZhihuApi>
+@interface ZhihuApiImpl : NSObject <IZhihuApi>
 
 @end

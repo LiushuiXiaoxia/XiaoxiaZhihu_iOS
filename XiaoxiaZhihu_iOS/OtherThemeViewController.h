@@ -11,6 +11,6 @@
 @interface OtherThemeViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
 
 @property NSString *viewControllerTitle;
-@property int themeId;
+@property int      themeId;
 
 @end

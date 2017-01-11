@@ -12,7 +12,7 @@
 
 + (NSDictionary *)modelCustomPropertyMapper {
     return @{
-            @"themeEditorId" : @"id",
+            @"themeEditorId": @"id",
     };
 }
 

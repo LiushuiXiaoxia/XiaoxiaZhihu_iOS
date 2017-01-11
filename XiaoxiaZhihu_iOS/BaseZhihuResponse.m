@@ -12,8 +12,8 @@
 
 + (NSDictionary *)modelContainerPropertyGenericClass {
     return @{
-            @"status" : @"status",
-            @"error_msg" : @"errorMsg"
+            @"status": @"status",
+            @"error_msg": @"errorMsg"
     };
 }
 

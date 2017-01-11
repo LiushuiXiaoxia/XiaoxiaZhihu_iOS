@@ -33,11 +33,11 @@ static NSString *const HOT_NEW_TITLE = @"今日热闻";
     [super viewDidLoad];
 
     // set up
-    self.title = @"主题列表";
+    self.title                                     = @"主题列表";
     self.navigationController.navigationBar.hidden = NO;
-    self.navigationItem.hidesBackButton = YES;
+    self.navigationItem.hidesBackButton            = YES;
 
-    _tableView.mj_header = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
+    _tableView.mj_header       = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
         [self fetchAllTheme];
     }];
     _tableView.tableFooterView = [[UIView alloc] init];
@@ -49,7 +49,7 @@ static NSString *const HOT_NEW_TITLE = @"今日热闻";
 - (void)fetchAllTheme {
     GetAllThemesRequest *request = [[GetAllThemesRequest alloc] init];
     request.responseModelClass = [GetAllThemesResponse class];
-    request.completionHandler = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
+    request.completionHandler  = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
         if (!error) {
             [self updateUI:responseObj];
         }
@@ -60,8 +60,8 @@ static NSString *const HOT_NEW_TITLE = @"今日热闻";
 
 - (void)updateUI:(GetAllThemesResponse *)response {
     self.getAllThemesResponse = response;
-    _tableView.delegate = self;
-    _tableView.dataSource = self;
+    _tableView.delegate       = self;
+    _tableView.dataSource     = self;
 
     [_tableView reloadData];
 }
@@ -90,7 +90,7 @@ static NSString *const HOT_NEW_TITLE = @"今日热闻";
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    DDLogInfo(@"indexPath = %@", indexPath);
+    AppLogI(@"indexPath = %@", indexPath);
 
     if (indexPath.row == 0) {
         HotnewsViewController *controller = [[HotnewsViewController alloc] init];
@@ -101,7 +101,7 @@ static NSString *const HOT_NEW_TITLE = @"今日热闻";
 
         OtherThemeViewController *controller = [[OtherThemeViewController alloc] init];
         controller.viewControllerTitle = item.name;
-        controller.themeId = item.themeId;
+        controller.themeId             = item.themeId;
         [self.navigationController pushViewController:controller animated:YES];
     }
 }

@@ -18,8 +18,8 @@
 @interface HotnewsViewController ()
 
 @property(nonatomic, strong) IBOutlet UITableView *tableView;
-@property(nonatomic, strong) UIScrollView *scrollView;
-@property(nonatomic, strong) UIPageControl *pageControl;
+@property(nonatomic, strong) UIScrollView         *scrollView;
+@property(nonatomic, strong) UIPageControl        *pageControl;
 
 @property(nonatomic, strong) GetLastThemeResponse *lastThemeResponse;
 
@@ -36,17 +36,17 @@
     self.screenWidth = [UIScreen mainScreen].bounds.size.width;
 
     self.navigationController.navigationBar.hidden = NO;
-    self.title = self.viewControllerTitle;
-    self.view.backgroundColor = [UIColor redColor];
+    self.title                                     = self.viewControllerTitle;
+    self.view.backgroundColor                      = [UIColor redColor];
 
     UIView *headerView = [[UIView alloc] init];
     headerView.frame = CGRectMake(0, 0, _screenWidth, 210);
 
-    self.scrollView = [[UIScrollView alloc] init];
-    self.scrollView.frame = CGRectMake(0, 0, _screenWidth, 200);
+    self.scrollView                                = [[UIScrollView alloc] init];
+    self.scrollView.frame                          = CGRectMake(0, 0, _screenWidth, 200);
     self.scrollView.showsHorizontalScrollIndicator = NO;
-    self.scrollView.pagingEnabled = YES;
-    self.scrollView.delegate = self;
+    self.scrollView.pagingEnabled                  = YES;
+    self.scrollView.delegate                       = self;
 
     _tableView.mj_header = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
         [self getLastTheme];
@@ -56,7 +56,7 @@
     self.tableView.tableHeaderView = headerView;
     self.tableView.tableFooterView = [[UIView alloc] init];
 
-    self.tableView.delegate = self;
+    self.tableView.delegate   = self;
     self.tableView.dataSource = self;
 
     [self getLastTheme];
@@ -65,7 +65,7 @@
 - (void)getLastTheme {
     GetLastThemeRequest *request = [[GetLastThemeRequest alloc] init];
     request.responseModelClass = [GetLastThemeResponse class];
-    request.completionHandler = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
+    request.completionHandler  = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
         self.lastThemeResponse = responseObj;
 
         [self updateHeaderView];
@@ -78,13 +78,13 @@
 
 - (void)updateHeaderView {
     // UIScrollView
-    CGRect rect = self.scrollView.frame;
+    CGRect     rect  = self.scrollView.frame;
     NSUInteger count = self.lastThemeResponse.topStories.count;
     self.scrollView.contentSize = CGSizeMake(rect.size.width * count, 0);
     for (int i = 0; i < count; i++) {
-        CGRect imageRect = CGRectMake(rect.size.width * i, 0, rect.size.width, rect.size.height);
+        CGRect      imageRect  = CGRectMake(rect.size.width * i, 0, rect.size.width, rect.size.height);
         UIImageView *imageView = [[UIImageView alloc] initWithFrame:imageRect];
-        imageView.contentMode = UIViewContentModeScaleAspectFill;
+        imageView.contentMode  = UIViewContentModeScaleAspectFill;
         [self.scrollView addSubview:imageView];
 
         // load image
@@ -99,9 +99,9 @@
 
     // UIPageControl
     CGRect pageControlRect = CGRectMake(10, rect.size.height - 30, 100, 20);
-    self.pageControl = [[UIPageControl alloc] initWithFrame:pageControlRect];
+    self.pageControl               = [[UIPageControl alloc] initWithFrame:pageControlRect];
     self.pageControl.numberOfPages = count;
-    self.pageControl.currentPage = 0;
+    self.pageControl.currentPage   = 0;
     [self.tableView.tableHeaderView addSubview:self.pageControl];
 }
 
@@ -151,8 +151,8 @@
 
 - (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView {
     CGFloat scrollviewW = scrollView.frame.size.width;
-    CGFloat x = scrollView.contentOffset.x;
-    int page = (int) ((x + scrollviewW / 2) / scrollviewW);
+    CGFloat x           = scrollView.contentOffset.x;
+    int     page        = (int) ((x + scrollviewW / 2) / scrollviewW);
     self.pageControl.currentPage = page;
 }
 @end

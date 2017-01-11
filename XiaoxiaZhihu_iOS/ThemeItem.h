@@ -8,7 +8,7 @@
 
 @interface ThemeItem : NSObject
 
-@property int themeId;
+@property int      themeId;
 @property NSString *name;
 @property NSString *thumbnail;
 @property NSString *themeDescription;

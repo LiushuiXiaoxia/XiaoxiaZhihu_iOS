@@ -12,18 +12,18 @@
 
 + (NSDictionary *)modelCustomPropertyMapper {
     return @{
-            @"newsId" : @"id",
-            @"imageSource" : @"image_source",
-            @"shareUrl" : @"share_url",
-            @"gaPrefix" : @"ga_prefix",
+            @"newsId": @"id",
+            @"imageSource": @"image_source",
+            @"shareUrl": @"share_url",
+            @"gaPrefix": @"ga_prefix",
     };
 }
 
 
 + (NSDictionary *)modelContainerPropertyGenericClass {
     return @{
-            @"css" : [NSString class],
-            @"js" : [NSString class]
+            @"css": [NSString class],
+            @"js": [NSString class]
     };
 }
 
@@ -41,14 +41,13 @@
     [description appendFormat:@", self.gaPrefix=%@", self.gaPrefix];
 
     NSMutableString *superDescription = [[super description] mutableCopy];
-    NSUInteger length = [superDescription length];
+    NSUInteger      length            = [superDescription length];
 
     if (length > 0 && [superDescription characterAtIndex:length - 1] == '>') {
         [superDescription insertString:@", " atIndex:length - 1];
         [superDescription insertString:description atIndex:length + 1];
         return superDescription;
-    }
-    else {
+    } else {
         return [NSString stringWithFormat:@"<%@: %@>", NSStringFromClass([self class]), description];
     }
 }

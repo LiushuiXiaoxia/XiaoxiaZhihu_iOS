@@ -22,10 +22,10 @@
 
 @property(nonatomic, strong) IBOutlet UITableView *tableView;
 
-@property(nonatomic, strong) id <IZhihuApi> zhihuApi;
+@property(nonatomic, strong) id <IZhihuApi>          zhihuApi;
 @property(nonatomic, strong) GetLongCommentsResponse *getLongCommentsResponse;
-@property(nonatomic, strong) NSMutableArray *data;
-@property(nonatomic) BOOL isLoadedShortComments;
+@property(nonatomic, strong) NSMutableArray          *data;
+@property(nonatomic) BOOL                            isLoadedShortComments;
 
 @end
 
@@ -36,21 +36,21 @@
 
     DDLogVerbose(@"newsId = %d", _newsId);
 
-    self.zhihuApi = [InjectHelper getZhihuApi];
+    self.zhihuApi              = [InjectHelper getZhihuApi];
     self.isLoadedShortComments = NO;
-    self.data = [[NSMutableArray alloc] init];
+    self.data                  = [[NSMutableArray alloc] init];
     [self.data addObject:@(_storyExtra.longComments)];
     [self.data addObject:@(_storyExtra.shortComments)];
 
-    self.tableView.tableFooterView = [[UIView alloc] init];
-    self.tableView.delegate = self;
-    self.tableView.dataSource = self;
+    self.tableView.tableFooterView    = [[UIView alloc] init];
+    self.tableView.delegate           = self;
+    self.tableView.dataSource         = self;
     self.tableView.estimatedRowHeight = 75;
-    self.tableView.rowHeight = UITableViewAutomaticDimension;
+    self.tableView.rowHeight          = UITableViewAutomaticDimension;
 
     self.tableView.mj_header = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
         self.getLongCommentsResponse = nil;
-        self.isLoadedShortComments = NO;
+        self.isLoadedShortComments   = NO;
         [self getLongComments];
     }];
 
@@ -60,7 +60,7 @@
 - (void)getLongComments {
     GetLongCommentsRequest *request = [GetLongCommentsRequest requestWithCommentId:_newsId];
     request.responseModelClass = [GetLongCommentsResponse class];
-    request.completionHandler = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
+    request.completionHandler  = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
         if (responseObj) {
             self.getLongCommentsResponse = responseObj;
 
@@ -81,9 +81,9 @@
 - (void)getShortComments {
     GetShortCommentsRequest *request = [GetShortCommentsRequest requestWithCommentId:_newsId];
     request.responseModelClass = [GetShortCommentsResponse class];
-    request.completionHandler = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
+    request.completionHandler  = ^(BaseZhihuRequest *task, id responseObj, NSError *error) {
         GetShortCommentsResponse *response = responseObj;
-        NSUInteger count = self.data.count;
+        NSUInteger               count     = self.data.count;
 
         [self.data removeAllObjects];
         [self.data addObject:@(self.getLongCommentsResponse.comments.count)];
@@ -135,8 +135,8 @@
 }
 
 - (UITableViewCell *)bindCommentCell:(UITableView *)tableView item:(NSObject *)item {
-    CommentsViewCell *cell = nil;
-    NSString *identifier = @"Cell";
+    CommentsViewCell *cell       = nil;
+    NSString         *identifier = @"Cell";
     cell = [tableView dequeueReusableCellWithIdentifier:identifier];
     if (cell == nil) {
         cell = [[CommentsViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:identifier];

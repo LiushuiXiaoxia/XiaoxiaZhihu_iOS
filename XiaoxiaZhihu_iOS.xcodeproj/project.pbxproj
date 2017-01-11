@@ -32,6 +32,7 @@
 		ED7DF286DC1ADFB8305999D0 /* StartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DF73D2C1FE45D1038E89A /* StartViewController.m */; };
 		ED7DF29EBB7FBC87C624ED0B /* CommentsViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DFB4AE46D8693A08C1E7D /* CommentsViewCell.m */; };
 		ED7DF5D24A0DBE5ED6DF54EF /* GetStoryExtraResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DFB039B4833F2D007E9BC /* GetStoryExtraResponse.m */; };
+		ED7DF5D46772CF1548EC8471 /* AppLog.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DFDFDDE5F4AE7B01E7BCF /* AppLog.m */; };
 		ED7DF5F616E50FE84E43CBB3 /* LastTemeTopStory.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DF3A6F3C2F1C03289303B /* LastTemeTopStory.m */; };
 		ED7DF636F7F78682B8C783B3 /* ImageLoadHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DFA161989603405C8C80A /* ImageLoadHelper.m */; };
 		ED7DF74075F37BA39708B7CE /* GetThemeRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7DF8F8C2E3726FBE7BF960 /* GetThemeRequest.m */; };
@@ -107,6 +108,7 @@
 		ED7DF730CCA9A7A95B826D2A /* Comment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Comment.m; sourceTree = "<group>"; };
 		ED7DF735F9B5C4E60EA5ADF5 /* GetLastThemeResponse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetLastThemeResponse.m; sourceTree = "<group>"; };
 		ED7DF73D2C1FE45D1038E89A /* StartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartViewController.m; sourceTree = "<group>"; };
+		ED7DF763027B050264E3C866 /* AppLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppLog.h; sourceTree = "<group>"; };
 		ED7DF78354E5E9071AEAAB39 /* IZhihuApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IZhihuApi.h; sourceTree = "<group>"; };
 		ED7DF7B1540EC34A000DCB5A /* GetNewsRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetNewsRequest.m; sourceTree = "<group>"; };
 		ED7DF7CDA0FC81210D779F62 /* GetAllThemesRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetAllThemesRequest.m; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 		ED7DFD782EC90AC95943A44C /* ThemeItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThemeItem.m; sourceTree = "<group>"; };
 		ED7DFDAD42AA23727476BF42 /* BaseZhihuResponse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseZhihuResponse.h; sourceTree = "<group>"; };
 		ED7DFDB77628CB70CA2E72CA /* GetNewsResponse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetNewsResponse.m; sourceTree = "<group>"; };
+		ED7DFDFDDE5F4AE7B01E7BCF /* AppLog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppLog.m; sourceTree = "<group>"; };
 		ED7DFE07FAE3A53E8D4C80BB /* InjectHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InjectHelper.h; sourceTree = "<group>"; };
 		ED7DFEC968F4C3288272CD04 /* GetThemeRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetThemeRequest.h; sourceTree = "<group>"; };
 		ED7DFEECC3E4F323260F530F /* GetStartInfoRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetStartInfoRequest.h; sourceTree = "<group>"; };
@@ -225,6 +228,7 @@
 				5C531CA91C82BA9500ADB9C3 /* AppDelegate.m */,
 				ED7DF71B4676BE7CC0906F77 /* AppGlobal.h */,
 				5C4709001C952B1C0001227C /* XiaoXiaZhihu_iOS.pch */,
+				ED7DFC160497AAAF15B9DF6D /* util */,
 			);
 			name = code;
 			sourceTree = "<group>";
@@ -331,6 +335,15 @@
 			children = (
 			);
 			name = widget;
+			sourceTree = "<group>";
+		};
+		ED7DFC160497AAAF15B9DF6D /* util */ = {
+			isa = PBXGroup;
+			children = (
+				ED7DFDFDDE5F4AE7B01E7BCF /* AppLog.m */,
+				ED7DF763027B050264E3C866 /* AppLog.h */,
+			);
+			name = util;
 			sourceTree = "<group>";
 		};
 		ED7DFC65565786A8BED232D5 /* model */ = {
@@ -542,6 +555,7 @@
 				ED7DF636F7F78682B8C783B3 /* ImageLoadHelper.m in Sources */,
 				ED7DF29EBB7FBC87C624ED0B /* CommentsViewCell.m in Sources */,
 				ED7DFF745310E5794E36F25E /* README.md in Sources */,
+				ED7DF5D46772CF1548EC8471 /* AppLog.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

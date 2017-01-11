@@ -14,14 +14,14 @@
     SDWebImageManager *manager = [SDWebImageManager sharedManager];
 
     void (^completedBlock)(UIImage *, NSError *, SDImageCacheType, BOOL, NSURL *) =
-            ^(UIImage *image, NSError *error, SDImageCacheType cacheType, BOOL finished, NSURL *imageURL) {
+    ^(UIImage *image, NSError *error, SDImageCacheType cacheType, BOOL finished, NSURL *imageURL) {
 
-                [[NSOperationQueue mainQueue] addOperationWithBlock:^{
+        [[NSOperationQueue mainQueue] addOperationWithBlock:^{
 
-                }];
-                DDLogWarn(@"imageURL = %@", imageURL);
-                imageView.image = image;
-            };
+        }];
+        AppLogW(@"imageURL = %@", imageURL);
+        imageView.image = image;
+    };
 
     [manager downloadImageWithURL:[NSURL URLWithString:imageUrl]
                           options:0
@@ -33,11 +33,11 @@
     SDWebImageManager *manager = [SDWebImageManager sharedManager];
 
     void (^completedBlock)(UIImage *, NSError *, SDImageCacheType, BOOL, NSURL *) =
-            ^(UIImage *image, NSError *error, SDImageCacheType cacheType, BOOL finished, NSURL *imageURL) {
-                DDLogWarn(@"imageURL = %@", imageURL);
-                cell.imageView.image = image;
-                [cell setNeedsLayout];
-            };
+    ^(UIImage *image, NSError *error, SDImageCacheType cacheType, BOOL finished, NSURL *imageURL) {
+        AppLogW(@"imageURL = %@", imageURL);
+        cell.imageView.image = image;
+        [cell setNeedsLayout];
+    };
 
     [manager downloadImageWithURL:[NSURL URLWithString:imageUrl]
                           options:0

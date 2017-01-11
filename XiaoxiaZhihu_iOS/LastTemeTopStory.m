@@ -12,8 +12,8 @@
 
 + (NSDictionary *)modelCustomPropertyMapper {
     return @{
-            @"storyId" : @"id",
-            @"gaPrefix" : @"ga_prefix",
+            @"storyId": @"id",
+            @"gaPrefix": @"ga_prefix",
     };
 }
 
