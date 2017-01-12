@@ -8,12 +8,12 @@
 
 @interface Comment : NSObject
 
-@property int      commentId;
-@property NSString *author;
-@property NSString *content;
-@property int      likes;
-@property int      time;
-@property NSString *avatar;
+@property(nonatomic) int            commentId;
+@property(nonatomic, copy) NSString *author;
+@property(nonatomic, copy) NSString *content;
+@property(nonatomic) int            likes;
+@property(nonatomic) int            time;
+@property(nonatomic, copy) NSString *avatar;
 
 - (NSString *)description;
 @end

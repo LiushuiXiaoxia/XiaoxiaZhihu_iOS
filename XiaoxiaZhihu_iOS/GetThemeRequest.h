@@ -9,12 +9,12 @@
 
 @interface GetThemeRequest : BaseZhihuRequest
 
-@property int themeId;
+@property(nonatomic, assign) int themeId;
 
 - (instancetype)initWithThemeId:(int)themeId;
 
 + (instancetype)requestWithThemeId:(int)themeId;
 
-
 - (NSString *)description;
+
 @end

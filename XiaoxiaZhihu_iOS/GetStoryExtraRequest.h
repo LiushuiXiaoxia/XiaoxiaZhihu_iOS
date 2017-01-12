@@ -9,7 +9,7 @@
 
 @interface GetStoryExtraRequest : BaseZhihuRequest
 
-@property int extraId;
+@property(nonatomic, assign) int extraId;
 
 - (instancetype)initWithExtraId:(int)extraId;
 

@@ -9,7 +9,7 @@
 
 @interface GetNewsRequest : BaseZhihuRequest
 
-@property int newsId;
+@property(nonatomic, assign) int newsId;
 
 - (instancetype)initWithNewsId:(int)newsId;
 

@@ -8,12 +8,12 @@
 
 @interface BaseZhihuRequest : NSObject
 
-@property(nonatomic, copy) void (^ _Nullable completionHandler)(
+@property(nonatomic, copy, nonnull) void (^ completionHandler)(
         BaseZhihuRequest *_Nonnull task,
         id _Nullable responseObj,
         NSError *_Nullable error);
 
-@property(nonatomic, assign, nonnull) Class responseModelClass;
+@property(nonatomic, retain, nonnull) Class responseModelClass;
 
 - (NSString *_Nullable)description;
 

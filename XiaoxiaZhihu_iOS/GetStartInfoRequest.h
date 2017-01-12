@@ -9,15 +9,13 @@
 
 @interface GetStartInfoRequest : BaseZhihuRequest
 
-@property int width;
-
-@property int height;
+@property(nonatomic, assign) int width;
+@property(nonatomic, assign) int height;
 
 - (instancetype)initWithWidth:(int)width height:(int)height;
 
-- (NSString *)description;
-
 + (instancetype)requestWithWidth:(int)width height:(int)height;
 
+- (NSString *)description;
 
 @end

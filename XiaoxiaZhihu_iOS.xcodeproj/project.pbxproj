@@ -173,11 +173,10 @@
 			isa = PBXGroup;
 			children = (
 				5C531CA41C82BA9500ADB9C3 /* XiaoxiaZhihu_iOS */,
-				5C531CA31C82BA9500ADB9C3 /* Products */,
-				ED7DFB20822F20DE1E38C3AC /* README.md */,
-				ED7DF8B4500A15F2F8012E55 /* doc */,
 				41467789DC7F20A994BC1966 /* Pods */,
 				6F50B398F510C5C30DC6A13C /* Frameworks */,
+				ED7DF8B4500A15F2F8012E55 /* doc */,
+				ED7DFB20822F20DE1E38C3AC /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -194,22 +193,14 @@
 			children = (
 				5C531CBD1C82BDCD00ADB9C3 /* code */,
 				5C531CBC1C82BDB900ADB9C3 /* other */,
-				5C531CA51C82BA9500ADB9C3 /* Supporting Files */,
 			);
 			path = XiaoxiaZhihu_iOS;
-			sourceTree = "<group>";
-		};
-		5C531CA51C82BA9500ADB9C3 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				5C531CA61C82BA9500ADB9C3 /* main.m */,
-			);
-			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		5C531CBC1C82BDB900ADB9C3 /* other */ = {
 			isa = PBXGroup;
 			children = (
+				5C531CA61C82BA9500ADB9C3 /* main.m */,
 				ED7DF6D02AD0B77D133C06DA /* Podfile */,
 				5C531CB11C82BA9500ADB9C3 /* Assets.xcassets */,
 				5C531CB31C82BA9500ADB9C3 /* LaunchScreen.storyboard */,
@@ -236,6 +227,7 @@
 		6F50B398F510C5C30DC6A13C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5C531CA31C82BA9500ADB9C3 /* Products */,
 				650302EF7B7BF3F002C00D64 /* libPods-XiaoxiaZhihu_iOS.a */,
 			);
 			name = Frameworks;
@@ -420,7 +412,7 @@
 		5C531C9A1C82BA9500ADB9C3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = cn.mycommons;
 				TargetAttributes = {
 					5C531CA11C82BA9500ADB9C3 = {
@@ -594,8 +586,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -637,8 +631,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";

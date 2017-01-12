@@ -8,5 +8,7 @@
 
 
 @interface GetLastThemeRequest : BaseZhihuRequest
+
 - (NSString *)description;
+
 @end

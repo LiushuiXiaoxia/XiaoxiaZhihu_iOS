@@ -2,140 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f416676-b4e6-4b29-b3fa-27ab3dba7612" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Pods.xcscheme" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-acknowledgements.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-acknowledgements.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-dummy.m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-frameworks.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-resources.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods.debug.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods.release.xcconfig" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/UserInterfaceState.xcuserstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile" afterPath="$PROJECT_DIR$/Podfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile.lock" afterPath="$PROJECT_DIR$/Podfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" afterPath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/README.md" afterPath="$PROJECT_DIR$/Pods/AFNetworking/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.swift" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.swift" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAssertMacros.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAssertMacros.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog+LOGV.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog+LOGV.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLogMacros.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLogMacros.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/LICENSE.txt" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/LICENSE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/README.md" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/LICENSE" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.h" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/README.mdown" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/README.mdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/README.md" afterPath="$PROJECT_DIR$/Pods/MJRefresh/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewConstraint.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewConstraint.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASShorthandAdditions.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASShorthandAdditions.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/README.md" afterPath="$PROJECT_DIR$/Pods/Masonry/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/AFNetworking.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/AFNetworking.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/CocoaLumberjack.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/CocoaLumberjack.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MBProgressHUD.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MBProgressHUD.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MJRefresh.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MJRefresh.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Masonry.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Masonry.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Pods-XiaoxiaZhihu_iOS.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Pods-XiaoxiaZhihu_iOS.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/SDWebImage.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/SDWebImage.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYImage.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYImage.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYModel.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYModel.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/MJRefresh/MJRefresh.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MJRefresh/MJRefresh.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/YYImage/YYImage.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYImage/YYImage.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYImage/README.md" afterPath="$PROJECT_DIR$/Pods/YYImage/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYAnimatedImageView.m" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYAnimatedImageView.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImageCoder.m" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImageCoder.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.h" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.m" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.h" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.m" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/XiaoxiaZhihu_iOS.xcscheme" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/XiaoxiaZhihu_iOS.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.h" />
     </list>
     <ignored path="XiaoxiaZhihu_iOS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -155,11 +60,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Podfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Podfile">
+      <file leaf-file-name="GetLongCommentsResponse.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="170">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetNewsResponse.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetShortCommentsResponse.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetStartInfoResponse.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetStoryExtraResponse.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetStoryExtraResponse.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetThemeResponse.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetThemeResponse.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseZhihuResponse.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageLoadHelper.m" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,6 +167,11 @@
       <find>responseObject</find>
       <find>va_start</find>
       <find>DDLogInfo</find>
+      <find>text</find>
+      <find>mode</find>
+      <find>MBProgressHUDRoundedButton</find>
+      <find>label</find>
+      <find>setupViews</find>
     </findStrings>
     <replaceStrings>
       <replace>AppLogI</replace>
@@ -183,30 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/IZhihuApi.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ViewController.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.xib" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentTableViewCell.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.h" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.h" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.h" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.h" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.m" />
@@ -221,7 +197,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Info.plist" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.h" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.m" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.h" />
@@ -229,11 +204,36 @@
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.h" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.m" />
-        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.m" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/XiaoXiaZhihu_iOS.pch" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m" />
         <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" />
+        <option value="$PROJECT_DIR$/Pods/Headers/Public/MBProgressHUD/MBProgressHUD.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" />
+        <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m" />
       </list>
     </option>
   </component>
@@ -350,25 +350,15 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pods" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pods" />
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Targets Support Files" />
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pods-XiaoxiaZhihu_iOS" />
+              <option name="myItemId" value="code" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,11 +368,19 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pods" />
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Products" />
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,7 +390,123 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pods" />
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pojo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pojo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resp" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pojo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="req" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pojo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bean" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -411,7 +525,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++/Objective-C" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
@@ -512,12 +626,12 @@
       <workItem from="1484066155731" duration="182000" />
       <workItem from="1484066356635" duration="101000" />
       <workItem from="1484102965333" duration="506000" />
-      <workItem from="1484189939712" duration="572000" />
+      <workItem from="1484189939712" duration="6073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8907000" />
+    <option name="totallyTimeSpent" value="14408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,13 +644,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6379127" sideWeight="0.49039266" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694355" sideWeight="0.50479746" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46889225" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4685836" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49733758" sideWeight="0.4920635" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60170394" sideWeight="0.49520257" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -544,7 +658,7 @@
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26705757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60698026" sideWeight="0.49253732" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38232163" sideWeight="0.49253732" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -553,6 +667,28 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6379127" sideWeight="0.49039266" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694355" sideWeight="0.50479746" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4685836" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49733758" sideWeight="0.4920635" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60170394" sideWeight="0.49520257" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19722815" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26705757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38232163" sideWeight="0.49253732" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -569,359 +705,155 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.m</url>
-          <line>45</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m</url>
+          <line>77</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="AppleRunConfiguration">
+        <watch expression="[hud label] " language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="67" column="41" lean-forward="false" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/AppCode33/DerivedData/XiaoxiaZhihu_iOS-b70785f0/Build/Products/Debug-iphoneos/XiaoxiaZhihu_iOS.app/Podfile" />
-    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/CocoaLumberjack/DDTTYLogger.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="96" column="35" lean-forward="false" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="243" column="8" lean-forward="false" selection-start-line="243" selection-start-column="8" selection-end-line="243" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/CocoaLumberjack/DDLegacyMacros.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/CocoaLumberjack/CocoaLumberjack.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="70" column="15" lean-forward="false" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/Info.plist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/IZhihuApi.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/main.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
-          <folding>
-            <element signature="e#151#182#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-846">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.h">
+    <entry file="file://$PROJECT_DIR$/Podfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="97" column="12" lean-forward="false" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="360" column="0" lean-forward="true" selection-start-line="360" selection-start-column="0" selection-end-line="360" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/CocoaLumberjack/DDLogMacros.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLogMacros.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="312" column="20" lean-forward="false" selection-start-line="312" selection-start-column="20" selection-end-line="312" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="237" column="0" lean-forward="false" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="92" column="11" lean-forward="false" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAssertMacros.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppGlobal.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/CocoaLumberjack/DDLog.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="160" column="4" lean-forward="false" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/XiaoXiaZhihu_iOS.pch">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="255">
           <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/InjectHelper.m">
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/InjectHelper.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
+        <state relative-caret-position="408">
           <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="244" column="21" lean-forward="false" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="141" column="41" lean-forward="false" selection-start-line="141" selection-start-column="41" selection-end-line="141" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="138" column="8" lean-forward="false" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="20" column="58" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/dispatch/queue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="420" column="0" lean-forward="false" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="338" column="15" lean-forward="false" selection-start-line="338" selection-start-column="15" selection-end-line="338" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pods/Headers/Public/MBProgressHUD/MBProgressHUD.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="292" column="38" lean-forward="false" selection-start-line="292" selection-start-column="38" selection-end-line="292" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+          <folding>
+            <element signature="e#152#184#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -941,10 +873,266 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Podfile">
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesRequest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>

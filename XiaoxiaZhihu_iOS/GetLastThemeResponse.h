@@ -11,11 +11,12 @@
 
 @interface GetLastThemeResponse : BaseZhihuResponse
 
-@property NSString *date;
+@property(nonatomic, copy) NSString *date;
 
-@property NSArray<LastThemeStory *> *stories; // LastThemeStory[]
+@property(nonatomic, retain) NSArray<LastThemeStory *> *stories; // LastThemeStory[]
 
-@property NSArray<LastTemeTopStory *> *topStories; // LastTemeTopStory[]
+@property(nonatomic, retain) NSArray<LastTemeTopStory *> *topStories; // LastTemeTopStory[]
 
 - (NSString *)description;
+
 @end

@@ -8,11 +8,11 @@
 
 @interface LastThemeStory : NSObject
 
-@property int      storyId;
-@property int      type;
-@property NSString *title;
-@property NSString *gaPrefix;
-@property NSArray  *images;
+@property(nonatomic, assign) int     storyId;
+@property(nonatomic, assign) int     type;
+@property(nonatomic, copy) NSString  *title;
+@property(nonatomic, copy) NSString  *gaPrefix;
+@property(nonatomic, retain) NSArray *images;
 
 - (NSString *)description;
 

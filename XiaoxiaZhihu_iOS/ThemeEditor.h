@@ -8,11 +8,11 @@
 
 @interface ThemeEditor : NSObject
 
-@property NSString *url;
-@property NSString *bio;
-@property int      themeEditorId;
-@property NSString *avatar;
-@property NSString *name;
+@property(nonatomic, copy) NSString *url;
+@property(nonatomic, copy) NSString *bio;
+@property(nonatomic, assign) int    themeEditorId;
+@property(nonatomic, copy) NSString *avatar;
+@property(nonatomic, copy) NSString *name;
 
 - (NSString *)description;
 @end

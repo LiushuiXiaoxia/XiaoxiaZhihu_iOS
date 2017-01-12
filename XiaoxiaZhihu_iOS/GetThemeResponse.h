@@ -12,14 +12,14 @@
 
 @interface GetThemeResponse : BaseZhihuResponse
 
-@property NSArray<LastThemeStory *> *stories;
-@property NSString                  *themeDescription;
-@property NSString                  *background;
-@property int                       color;
-@property NSString                  *name;
-@property NSString                  *image;
-@property NSArray<ThemeEditor *>    *editors;
-@property NSString                  *imageSrouce;
+@property(nonatomic, retain) NSArray<LastThemeStory *> *stories;
+@property(nonatomic, copy) NSString                    *themeDescription;
+@property(nonatomic, copy) NSString                    *background;
+@property(nonatomic, assign) int                       color;
+@property(nonatomic, copy) NSString                    *name;
+@property(nonatomic, copy) NSString                    *image;
+@property(nonatomic, retain) NSArray<ThemeEditor *>    *editors;
+@property(nonatomic, copy) NSString                    *imageSrouce;
 
 - (NSString *)description;
 

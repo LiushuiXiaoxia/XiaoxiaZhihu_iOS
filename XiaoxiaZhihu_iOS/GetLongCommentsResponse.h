@@ -10,7 +10,7 @@
 
 @interface GetLongCommentsResponse : BaseZhihuResponse
 
-@property NSArray<Comment *> *comments;
+@property(nonatomic, retain) NSArray<Comment *> *comments;
 
 - (NSString *)description;
 

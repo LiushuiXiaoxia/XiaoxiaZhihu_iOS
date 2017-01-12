@@ -9,7 +9,7 @@
 
 @interface GetLongCommentsRequest : BaseZhihuRequest
 
-@property int commentId;
+@property(nonatomic, assign) int commentId;
 
 - (instancetype)initWithCommentId:(int)commentId;
 

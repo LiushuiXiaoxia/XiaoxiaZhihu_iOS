@@ -9,9 +9,9 @@
 
 @interface GetAllThemesResponse : BaseZhihuResponse
 
-@property int limit;
+@property(nonatomic, assign) int limit;
 
-@property NSArray *others;
+@property(nonatomic, retain) NSArray *others;
 
 - (NSString *)description; // ThemeItem[] *others
 

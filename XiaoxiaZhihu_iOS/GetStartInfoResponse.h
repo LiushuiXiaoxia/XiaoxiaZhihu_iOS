@@ -9,9 +9,9 @@
 
 @interface GetStartInfoResponse : BaseZhihuResponse
 
-@property NSString *text;
+@property(nonatomic, copy) NSString *text;
 
-@property NSString *img;
+@property(nonatomic, copy) NSString *img;
 
 - (NSString *)description;
 

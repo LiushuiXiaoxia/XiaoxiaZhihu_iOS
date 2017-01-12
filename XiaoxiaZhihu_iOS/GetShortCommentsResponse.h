@@ -9,7 +9,7 @@
 
 @interface GetShortCommentsResponse : BaseZhihuResponse
 
-@property NSArray *comments;
+@property(nonatomic, retain) NSArray *comments;
 
 - (NSString *)description;
 

@@ -8,9 +8,9 @@
 
 @interface BaseZhihuResponse : NSObject
 
-@property int status;
+@property(nonatomic, assign) int status;
 
-@property NSString *errorMsg;
+@property(nonatomic, copy) NSString *errorMsg;
 
 - (NSString *)description;
 

@@ -9,6 +9,7 @@
 @implementation BaseZhihuRequest {
 
 }
+
 - (NSString *)description {
     NSMutableString *description = [NSMutableString stringWithFormat:@"<%@: ", NSStringFromClass([self class])];
     [description appendFormat:@"self.completionHandler=%p", self.completionHandler];

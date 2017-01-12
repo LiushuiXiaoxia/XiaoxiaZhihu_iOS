@@ -73,7 +73,7 @@
 }
 
 - (void)likeNews {
-//只显示文字
+    // 只显示文字
     MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];
     hud.mode                      = MBProgressHUDModeText;
     hud.labelText                 = @"需要登录才能点赞";

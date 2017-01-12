@@ -8,11 +8,11 @@
 
 @interface ThemeItem : NSObject
 
-@property int      themeId;
-@property NSString *name;
-@property NSString *thumbnail;
-@property NSString *themeDescription;
-@property NSString *color;
+@property(nonatomic, assign) int    themeId;
+@property(nonatomic, copy) NSString *name;
+@property(nonatomic, copy) NSString *thumbnail;
+@property(nonatomic, copy) NSString *themeDescription;
+@property(nonatomic, copy) NSString *color;
 
 
 - (NSString *)description;

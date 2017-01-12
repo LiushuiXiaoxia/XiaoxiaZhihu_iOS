@@ -9,16 +9,16 @@
 
 @interface GetNewsResponse : BaseZhihuResponse
 
-@property int      newsId;
-@property int      type;
-@property NSString *title;
-@property NSString *image;
-@property NSString *imageSource;
-@property NSString *body;
-@property NSString *shareUrl;
-@property NSArray  *css;
-@property NSArray  *js;
-@property NSString *gaPrefix;
+@property(nonatomic, assign) int    newsId;
+@property(nonatomic, assign) int    type;
+@property(nonatomic, copy) NSString *title;
+@property(nonatomic, copy) NSString *image;
+@property(nonatomic, copy) NSString *imageSource;
+@property(nonatomic, copy) NSString *body;
+@property(nonatomic, copy) NSString *shareUrl;
+@property(nonatomic, copy) NSArray  *css;
+@property(nonatomic, copy) NSArray  *js;
+@property(nonatomic, copy) NSString *gaPrefix;
 
 - (NSString *)description;
 

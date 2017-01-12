@@ -9,12 +9,12 @@
 
 @interface GetStoryExtraResponse : BaseZhihuResponse
 
-@property int longComments;
-@property int popularity;
-@property int shortComments;
-@property int normalComments;
-@property int postReasons;
-@property int comments;
+@property(nonatomic, assign) int longComments;
+@property(nonatomic, assign) int popularity;
+@property(nonatomic, assign) int shortComments;
+@property(nonatomic, assign) int normalComments;
+@property(nonatomic, assign) int postReasons;
+@property(nonatomic, assign) int comments;
 
 - (NSString *)description;
 
