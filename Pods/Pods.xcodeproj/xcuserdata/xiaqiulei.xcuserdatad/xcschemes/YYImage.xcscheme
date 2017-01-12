@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2496372D893721186C326DA20834E9CA"
-               BlueprintName = "YYImage"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "libYYImage.a">
+               BuildableIdentifier = 'primary'
+               BlueprintIdentifier = '33695922ED8D6B1316F672008655612F'
+               BlueprintName = 'YYImage'
+               ReferencedContainer = 'container:Pods.xcodeproj'
+               BuildableName = 'libYYImage.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

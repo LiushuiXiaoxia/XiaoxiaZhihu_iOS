@@ -2,63 +2,140 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f416676-b4e6-4b29-b3fa-27ab3dba7612" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/XiaoxiaZhihu_iOS.iml" afterPath="$PROJECT_DIR$/.idea/XiaoxiaZhihu_iOS.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Pods.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-acknowledgements.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-acknowledgements.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-dummy.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-frameworks.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods-resources.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods.debug.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods/Pods.release.xcconfig" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile" afterPath="$PROJECT_DIR$/Podfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile.lock" afterPath="$PROJECT_DIR$/Podfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" afterPath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/README.md" afterPath="$PROJECT_DIR$/Pods/AFNetworking/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.swift" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/CocoaLumberjack.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogCapture.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDASLLogger.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAssertMacros.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDAssertMacros.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDFileLogger.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog+LOGV.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog+LOGV.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLog.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLogMacros.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDLogMacros.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/DDTTYLogger.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.h" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.m" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/LICENSE.txt" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/CocoaLumberjack/README.md" afterPath="$PROJECT_DIR$/Pods/CocoaLumberjack/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/LICENSE" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.h" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MBProgressHUD/README.mdown" afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/README.mdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.h" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/MJRefreshConst.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.m" afterPath="$PROJECT_DIR$/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/MJRefresh/README.md" afterPath="$PROJECT_DIR$/Pods/MJRefresh/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraint.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewConstraint.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/MASViewConstraint.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.m" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASAdditions.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASShorthandAdditions.h" afterPath="$PROJECT_DIR$/Pods/Masonry/Masonry/View+MASShorthandAdditions.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Masonry/README.md" afterPath="$PROJECT_DIR$/Pods/Masonry/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/AFNetworking.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/AFNetworking.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/CocoaLumberjack.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/CocoaLumberjack.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MBProgressHUD.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MBProgressHUD.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MJRefresh.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/MJRefresh.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Masonry.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/Masonry.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/SDWebImage.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/SDWebImage.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYImage.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYImage.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYModel.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/YYModel.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/MJRefresh/MJRefresh.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/MJRefresh/MJRefresh.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/YYImage/YYImage.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYImage/YYImage.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYImage/README.md" afterPath="$PROJECT_DIR$/Pods/YYImage/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYAnimatedImageView.m" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYAnimatedImageView.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImageCoder.m" afterPath="$PROJECT_DIR$/Pods/YYImage/YYImage/YYImageCoder.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.h" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.m" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.h" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.m" afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/XiaoxiaZhihu_iOS.xcscheme" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/XiaoxiaZhihu_iOS.xcscheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcodeproj/xcuserdata/xiaqiulei.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS.xcworkspace/xcuserdata/xiaqiulei.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppDelegate.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuRequest.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/BaseZhihuResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Comment.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewCell.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/DetailViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetAllThemesResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLastThemeResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsRequest.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetLongCommentsResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsRequest.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetNewsResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsRequest.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetShortCommentsResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoRequest.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStartInfoResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraRequest.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetStoryExtraResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeRequest.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/GetThemeResponse.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Info.plist" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastTemeTopStory.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/LastThemeStory.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ListViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/StartViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeEditor.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ThemeItem.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/XiaoXiaZhihu_iOS.pch" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/XiaoXiaZhihu_iOS.pch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.h" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/main.m" afterPath="$PROJECT_DIR$/XiaoxiaZhihu_iOS/main.m" />
     </list>
     <ignored path="XiaoxiaZhihu_iOS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,55 +155,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ZhihuApiImpl.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InjectHelper.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/InjectHelper.h">
+      <file leaf-file-name="Podfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Podfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InjectHelper.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/InjectHelper.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageLoadHelper.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -182,7 +216,6 @@
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/UIImageView+ObjectTag.h" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/HotnewsViewController.m" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/OtherThemeViewController.m" />
-        <option value="$PROJECT_DIR$/Podfile" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/CommentsViewController.m" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppGlobal.h" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -200,6 +233,7 @@
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/AppLog.m" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/XiaoXiaZhihu_iOS.pch" />
         <option value="$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m" />
+        <option value="$PROJECT_DIR$/Podfile" />
       </list>
     </option>
   </component>
@@ -316,15 +350,25 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemId" value="Targets Support Files" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
+              <option name="myItemId" value="Pods-XiaoxiaZhihu_iOS" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,19 +378,11 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemId" value="Pods" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
+              <option name="myItemId" value="Products" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -356,67 +392,11 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
+              <option name="myItemId" value="Pods" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XiaoxiaZhihu_iOS" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
+              <option name="myItemId" value="Pods" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -532,11 +512,12 @@
       <workItem from="1484066155731" duration="182000" />
       <workItem from="1484066356635" duration="101000" />
       <workItem from="1484102965333" duration="506000" />
+      <workItem from="1484189939712" duration="572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8335000" />
+    <option name="totallyTimeSpent" value="8907000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -551,26 +532,26 @@
     <frame x="1920" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19509594" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6379127" sideWeight="0.49039266" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694355" sideWeight="0.50479746" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46889225" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49733758" sideWeight="0.4920635" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60170394" sideWeight="0.49520257" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19722815" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26705757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60170394" sideWeight="0.49520257" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60698026" sideWeight="0.49253732" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63884676" sideWeight="0.49039266" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49772382" sideWeight="0.4920635" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60698026" sideWeight="0.49253732" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -723,13 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Podfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -921,7 +895,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ImageLoadHelper.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="425">
           <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
           <folding />
         </state>
@@ -929,7 +903,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/InjectHelper.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="204">
           <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
@@ -945,25 +919,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XiaoxiaZhihu_iOS/ZhihuApiImpl.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="578">
           <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
